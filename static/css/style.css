@@ -130,7 +130,7 @@ footer {
 }
 
 p {
-    line-height: 1.5;
+    line-height: 2.5;
 }
 
 progress {
@@ -225,7 +225,7 @@ progress::-moz-progress-value {
     position: relative;;
     margin-left: 380px;
     min-height: 100%;
-    padding: 20px;
+    padding: 50px;
 
 }
 
